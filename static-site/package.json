@@ -1,0 +1,11 @@
+{
+  "name": "welldentsmilestudio",
+  "version": "1.0.0",
+  "description": "WellDent Smile Studio static website",
+  "scripts": {
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
